@@ -33,11 +33,7 @@
     "jsonwebtoken": "^9.0.0",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-<<<<<<< HEAD
-    "sequelize": "^6.28.0"
-=======
     "sequelize": "^6.26.0",
     "socket.io": "^4.5.4"
->>>>>>> masters-workers
   }
 }
